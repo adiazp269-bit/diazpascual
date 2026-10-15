@@ -8,8 +8,15 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1>Abrahan Diaz</h1>
-    
+    <main>
+<h1>DISEÑO WEB</h1>
+<p>Carrera tecnica especializada en diseño y programacion web</p>
+<section>
+<h2>Cursos:</h2>
+<p>Front End</p>
+</section>
+</main>
+
   )
 }
 
